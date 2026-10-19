@@ -1,0 +1,239 @@
+==============================================================================
+         REPEATED / MOST IMPORTANT EXAM QUESTIONS - OOP (C++)
+         Based on: June 2024, Sept 2024, June 2025 (Regular + Backlog)
+         Charutar Vidya Mandal University - B.Tech Semester 2
+==============================================================================
+
+SOURCE EXAMS:
+  1. June 2024 (Backlog)   - Date: 14/06/2024 - Marks: 60
+  2. Sept 2024 (Backlog)   - Date: 20/09/2024 - Marks: 50
+  3. June 2025 (Regular)   - Date: 26/06/2025 - Marks: 50
+  4. June 2025 (Backlog)   - Date: 26/06/2025 - Marks: 60
+
+==============================================================================
+SECTION A: QUESTIONS APPEARING IN 3+ EXAMS (MOST REPEATED)
+==============================================================================
+
+1. FUNCTION OVERLOADING IN C++
+   - June 2024 (Backlog): "Explain function overloading with suitable example." [6 marks]
+   - Sept 2024 (Backlog): "Write a program to create overloaded functions add to perform addition of two numbers." [4 marks]
+   - June 2025 (Regular):  "What is function overloading in C++? Explain with suitable example." [5 marks]
+   - June 2025 (Backlog):  "What is function overloading in C++? Explain with suitable example." [5 marks]
+   >>> APPEARED IN: 4/4 EXAMS <<<
+
+2. INHERITANCE TYPES WITH EXAMPLES
+   - June 2025 (Regular):  "Explain different types of inheritance with suitable examples." [4 marks]
+   - June 2025 (Backlog):  "Explain different types of inheritance with suitable examples." [5 marks]
+   - June 2024 (Backlog):  "Write a short note on Inheritance." [4 marks]
+   - Sept 2024 (Backlog):  "Write a short note on Inheritance." [4 marks]
+   >>> APPEARED IN: 4/4 EXAMS <<<
+
+3. CONSTRUCTORS AND DESTRUCTORS
+   - June 2024 (Backlog):  "What do you mean by Constructor? Explain and define all types with appropriate examples." [5 marks]
+   - June 2025 (Regular):  "Explain types of constructors. Explain copy constructor with suitable example." [4 marks]
+   - June 2025 (Backlog):  "Explain role of constructor and destructor in class. Provide an example." [5 marks]
+   - Sept 2024 (Backlog):  "Mention types of constructors." [1 mark]
+   >>> APPEARED IN: 4/4 EXAMS <<<
+
+4. POLYMORPHISM (COMPILE-TIME vs RUN-TIME)
+   - June 2024 (Backlog):  "What is Polymorphism? Briefly explain by describing an appropriate example." [5 marks]
+   - June 2025 (Regular):  "What is polymorphism in C++? Differentiate between compile-time and run-time polymorphism with examples." [4 marks]
+   - June 2025 (Backlog):  "What is polymorphism in C++? Differentiate between compile-time and run-time polymorphism with examples." [5 marks]
+   - Sept 2024 (Backlog):  "Write the types of polymorphism." [4 marks]
+   >>> APPEARED IN: 4/4 EXAMS <<<
+
+5. VIRTUAL FUNCTIONS / DYNAMIC POLYMORPHISM
+   - June 2025 (Regular):  "What is the role of virtual functions in polymorphism?" [1 mark]
+   - June 2025 (Backlog):  "What is the role of virtual functions in polymorphism?" [1 mark]
+   - June 2025 (Regular):  "Create a program using class Media with virtual function play(). Derive classes Audio and Video and override play()." [4 marks]
+   - June 2025 (Backlog):  "Create a class Shape with virtual function area(). Derive Rectangle and Circle classes and override area()." [5 marks]
+   - Sept 2024 (Backlog):  "Mention the use of keyword Virtual." [1 mark]
+   >>> APPEARED IN: 3/4 EXAMS <<<
+
+6. OPERATOR OVERLOADING
+   - Sept 2024 (Backlog):  "What is operator overloading? Overload the '+' operator to add two objects of class time." [4 marks]
+   - Sept 2024 (Backlog):  "Write a C++ program to concatenate two strings using operator overloading." [4 marks]
+   - June 2025 (Regular):  "Write a C++ program to compare two strings by overloading == operator." [4 marks]
+   - June 2024 (Backlog):  "Write a program to overload the + operator for the complex class." [5 marks]
+   >>> APPEARED IN: 3/4 EXAMS <<<
+
+7. DYNAMIC MEMORY ALLOCATION (new/delete)
+   - June 2024 (Backlog):  "Explain new and delete operators for dynamic memory allocation." [1 mark]
+   - Sept 2024 (Backlog):  "Explain new and delete operators for dynamic memory allocation." [4 marks]
+   - June 2025 (Regular):  "Mention the use of 'new' and 'delete' in C++." [1 mark]
+   - June 2025 (Backlog):  "Mention C++ operators used for dynamic memory allocation and deallocation." [1 mark]
+   >>> APPEARED IN: 4/4 EXAMS <<<
+
+8. EXCEPTION HANDLING (try/catch/throw)
+   - June 2025 (Regular):  "Explain the concept of exception handling in C++ with the syntax of try, catch, and throw." [4 marks]
+   - June 2025 (Backlog):  "Explain the concept of exception handling in C++ with the syntax of try, catch, and throw." [5 marks]
+   - Sept 2024 (Backlog):  "What is a try block? What is its use?" [4 marks]
+   >>> APPEARED IN: 3/4 EXAMS <<<
+
+9. C++ STREAM CLASSES / I/O STREAMS
+   - June 2025 (Regular):  "What are C++ stream classes? Explain the hierarchy of input and output stream classes." [4 marks]
+   - June 2025 (Backlog):  "What are C++ stream classes? Explain the hierarchy of input and output stream classes." [5 marks]
+   - June 2024 (Backlog):  "Explain the concept of Input stream and Output Stream in C++ programming structure." [5 marks]
+   >>> APPEARED IN: 3/4 EXAMS <<<
+
+10. INLINE FUNCTIONS
+    - June 2025 (Regular):  "Provide the advantage of using inline function." [1 mark]
+    - June 2025 (Backlog):  "Provide the advantage of using inline function." [1 mark]
+    - Sept 2024 (Backlog):  "Write a C++ program to create inline function that returns cube of given number." [4 marks]
+    - June 2024 (Backlog):  "Write a C++ program to create inline function that returns cube of given number." [5 marks]
+    >>> APPEARED IN: 4/4 EXAMS <<<
+
+==============================================================================
+SECTION B: QUESTIONS APPEARING IN 2 EXAMS (FREQUENTLY REPEATED)
+==============================================================================
+
+11. OOP vs POP DIFFERENTIATION
+    - June 2025 (Regular):  "What is Object oriented programming? How does it differ from procedure oriented programming?" [4 marks]
+    - June 2025 (Backlog):  "Differentiate Object oriented programming with Procedure oriented programming." [4 marks]
+    - June 2024 (Backlog):  "Differentiate POP and OOP with suitable examples." [4 marks]
+
+12. TYPES OF CONSTRUCTORS (Default, Copy, Parameterized)
+    - June 2024 (Backlog):  "What do you mean by Constructor? Explain and define all types." [5 marks]
+    - June 2025 (Regular):  "Explain types of constructors. Explain copy constructor with suitable example." [4 marks]
+
+13. FRIEND FUNCTION
+    - June 2025 (Backlog):  "What is a friend function?" [1 mark]
+    - Sept 2024 (Backlog):  "Explain how friend function violates the data hiding feature of C++. Create a class distance with member kilometer. Create a friend function." [4 marks]
+
+14. TEMPLATES (Function/Class)
+    - June 2025 (Regular):  "Create a class template Calculator that performs basic arithmetic operations on two integers and two floating point variables." [4 marks]
+    - June 2025 (Backlog):  "Write a program to swap two integer and two floating point variables using templates." [5 marks]
+    - Sept 2024 (Backlog):  "What is generic programming? Write a function template to swap two numbers." [4 marks]
+
+15. STANDARD TEMPLATE LIBRARY (STL)
+    - June 2025 (Regular):  "What do you mean by standard template library?" [1 mark]
+    - June 2025 (Backlog):  "What do you mean by standard template library?" [1 mark]
+
+16. TYPE CONVERSION / TYPECASTING
+    - June 2025 (Regular):  "What is typecasting? Give one example." [1 mark]
+    - June 2025 (Backlog):  "What is typecasting? Give one example." [1 mark]
+    - June 2024 (Backlog):  "What is Type conversion in C++? Define Basic to Class type and Class to Basic type conversion." [5 marks]
+    - Sept 2024 (Backlog):  "Explain type conversions in C++. Discuss Basic to class type conversion." [4 marks]
+
+17. CLASS vs OBJECT DIFFERENTIATION
+    - June 2025 (Regular):  "Differentiate: Class vs. Object" [4 marks]
+    - June 2024 (Backlog):  "Clarify how do you define a class and its object?" [1 mark]
+    - Sept 2024 (Backlog):  "What is a Class?" [1 mark]
+
+18. PROTECTED DATA MEMBER / DATA HIDING
+    - June 2025 (Regular):  "What is use of protected data member in inheritance?" [1 mark]
+    - June 2025 (Backlog):  "What is use of protected data member in inheritance?" [1 mark]
+    - Sept 2024 (Backlog):  "Define Data Hiding." [1 mark]
+
+19. STATIC DATA MEMBERS
+    - June 2024 (Backlog):  "Write a short note on Static Data members and member functions." [5 marks]
+    - June 2025 (Regular):  "What is static data member? Give one use case." [1 mark]
+    - Sept 2024 (Backlog):  "Write the syntax to declare a static variable count." [1 mark]
+
+20. FILE MANAGEMENT FUNCTIONS
+    - Sept 2024 (Backlog):  "Explain the use of file-management functions: put(), getline() with a suitable program." [4 marks]
+    - Sept 2024 (Backlog):  "Give names of file pointers." [1 mark]
+
+21. MULTILEVEL INHERITANCE PRACTICAL QUESTIONS
+    - June 2025 (Regular):  "Create a base class Person. Derive class Employee from Person. Create a class Allowance. Finally derive class Salary." [4 marks]
+    - June 2025 (Backlog):  "Create a class Person. Derive class Employee from Person. Derive class Manager from Employee." [4 marks]
+    - June 2025 (Backlog):  "Create two base classes Academic and Sports. Derive a class Result that inherits from both." [5 marks]
+
+22. ABSTRACT CLASS
+    - June 2024 (Backlog):  "State how many objects of an abstract class can be created? And why?" [1 mark]
+
+23. SCOPE RESOLUTION OPERATOR
+    - June 2024 (Backlog):  "What is Scope Resolution Operator used for? Explain." [1 mark]
+
+24. ENUMERATED DATA TYPE
+    - Sept 2024 (Backlog):  "Explain enumerated data type." [1 mark]
+    - June 2025 (Regular):  "What is enum?" [1 mark]
+
+25. VIRTUAL BASE CLASS
+    - June 2024 (Backlog):  "What is Virtual base class? Explain by taking an appropriate example." [5 marks]
+
+26. PYTHON BASICS
+    - June 2025 (Regular):  "How tuple and list are defined in Python?" [1 mark]
+    - June 2025 (Backlog):  "Name any two features of Python." [1 mark]
+    - June 2025 (Regular):  "Write a python program which prints maximum of given three numbers." [4 marks]
+    - June 2025 (Backlog):  "Write a Python program to check whether a given number is a prime number or not." [5 marks]
+    - June 2024 (Backlog):  "How to define variables in Python? Write a program to print 1 to 10 numbers using python." [5 marks]
+    - Sept 2024 (Backlog):  "Mention key features of Python programming language." [4 marks]
+
+==============================================================================
+SECTION C: PRACTICAL / PROGRAMMING QUESTIONS (Repeated Patterns)
+==============================================================================
+
+27. DISTANCE CLASS (feet/inches or km/meter)
+    - June 2025 (Backlog):  "Create a class Distance with attributes feet and inches. Create two objects and find their sum." [5 marks]
+    - June 2024 (Backlog):  "Create a class DISTANCE with km and meter as data members. Write getdata() and putdata()." [5 marks]
+
+28. PERSON -> EMPLOYEE -> MANAGER INHERITANCE CHAIN
+    - June 2025 (Regular):  "Create Person -> Employee -> Allowance -> Salary class hierarchy." [4 marks]
+    - June 2025 (Backlog):  "Create Person -> Employee -> Manager class hierarchy." [4 marks]
+
+29. SHAPE/MEDIA WITH VIRTUAL FUNCTION (Polymorphism Demo)
+    - June 2025 (Regular):  "Create class Media with virtual play(). Derive Audio and Video." [4 marks]
+    - June 2025 (Backlog):  "Create class Shape with virtual area(). Derive Rectangle and Circle." [5 marks]
+
+30. BANK CLASS (Member functions: init, deposit, withdraw, display)
+    - Sept 2024 (Backlog):  "Define a class bank with name, account_number, balance. Make member functions for init, deposit, withdraw, display." [4 marks]
+
+31. CAR CLASS (SetData/DisplayData)
+    - June 2024 (Backlog):  "Create a class Car with Company and Speed. Write SetData() and DisplayData()." [5 marks]
+
+32. COMPLEX CLASS (Operator Overloading +)
+    - June 2024 (Backlog):  "Write a program to overload the + operator for the complex class." [5 marks]
+
+==============================================================================
+TOPIC-WISE FREQUENCY SUMMARY (How many times each topic appeared)
+==============================================================================
+
+TOPIC                                    | EXAMS | TOTAL MARKS
+-----------------------------------------|-------|------------
+Function Overloading                     |  4/4  |   20
+Inheritance Types                        |  4/4  |   17
+Constructors & Destructors               |  4/4  |   19
+Polymorphism (Compile+Run-time)          |  4/4  |   18
+Virtual Functions                        |  3/4  |   16
+Operator Overloading                     |  3/4  |   17
+Dynamic Memory (new/delete)              |  4/4  |   10
+Exception Handling                       |  3/4  |   14
+C++ Stream Classes / I/O                 |  3/4  |   14
+Inline Functions                         |  4/4  |   11
+OOP vs POP                               |  3/4  |   12
+Friend Function                          |  2/4  |    5
+Templates                                |  3/4  |   13
+STL                                      |  2/4  |    2
+Type Conversion                          |  4/4  |   11
+Class vs Object                          |  3/4  |    6
+Data Hiding / Protected                  |  3/4  |    3
+Static Data Members                      |  3/4  |    7
+File Management                          |  1/4  |    5
+Python Basics                            |  4/4  |   20
+Multilevel Inheritance (Program)         |  3/4  |   13
+Abstract Class                           |  1/4  |    1
+Virtual Base Class                       |  1/4  |    5
+
+==============================================================================
+STUDY PRIORITY ORDER (Based on repetition frequency)
+==============================================================================
+
+1. [CRITICAL] Function Overloading        - Appeared 4/4 times
+2. [CRITICAL] Inheritance Types           - Appeared 4/4 times
+3. [CRITICAL] Constructors & Destructors  - Appeared 4/4 times
+4. [CRITICAL] Polymorphism                - Appeared 4/4 times
+5. [CRITICAL] Dynamic Memory (new/delete) - Appeared 4/4 times
+6. [CRITICAL] Inline Functions            - Appeared 4/4 times
+7. [CRITICAL] Type Conversion             - Appeared 4/4 times
+8. [CRITICAL] Python Basics               - Appeared 4/4 times
+9. [HIGH]     Virtual Functions           - Appeared 3/4 times
+10. [HIGH]    Operator Overloading        - Appeared 3/4 times
+11. [HIGH]    Exception Handling          - Appeared 3/4 times
+12. [HIGH]    C++ Stream Classes          - Appeared 3/4 times
+13. [HIGH]    Templates                   - Appeared 3/4 times
+14. [HIGH]    OOP vs POP                  - Appeared 3/4 times
+15. [MEDIUM]  Friend Function             - Appeared 2/4 times
+16. [MEDIUM]  STL                         - Appeared 2/4 times
+
+==============================================================================
