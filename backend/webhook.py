@@ -155,3 +155,4 @@ class WebhookHandler:
         """
         payload = {"event_type": event_type, "data": data or {}}
         self._process_event(payload)
+# Matrix activity pulse - 2026-11-20
